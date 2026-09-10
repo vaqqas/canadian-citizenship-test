@@ -107,7 +107,6 @@ function TestTaking({ config, questions, onComplete, onCancel }) {
   }
 
   const currentQuestion = testQuestions[currentQuestionIndex];
-  const isAnswered = answers[currentQuestion.id] !== undefined;
   const unansweredCount = testQuestions.length - Object.keys(answers).length;
 
   return (
