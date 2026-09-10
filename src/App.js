@@ -41,6 +41,11 @@ function App() {
     setTestResults(null);
   };
 
+  const handleRetakeTest = () => {
+    setTestResults(null);
+    setCurrentPage('test');
+  };
+
   const handleViewStatistics = () => {
     setCurrentPage('statistics');
   };
@@ -70,6 +75,7 @@ function App() {
         <TestResults
           results={testResults}
           onNewTest={handleBackToCreation}
+          onRetake={handleRetakeTest}
           onViewStats={handleViewStatistics}
         />
       )}

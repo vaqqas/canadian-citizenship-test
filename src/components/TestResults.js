@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import './TestResults.css';
+import Footer from './Footer';
 
-function TestResults({ results, onNewTest, onViewStats }) {
+function TestResults({ results, onNewTest, onRetake, onViewStats }) {
   const [expandedId, setExpandedId] = useState(null);
 
   const toggleExpand = (id) => {
@@ -15,8 +16,9 @@ function TestResults({ results, onNewTest, onViewStats }) {
   };
 
   return (
-    <div className="test-results">
-      <div className="results-container">
+    <div className="test-results-wrapper">
+      <div className="test-results">
+        <div className="results-container">
         {/* Score Section */}
         <div className="score-section" style={{ borderColor: getScoreColor(results.percentage) }}>
           <h1 className="score-title">Test Completed! 🎉</h1>
@@ -87,6 +89,9 @@ function TestResults({ results, onNewTest, onViewStats }) {
 
         {/* Action Buttons */}
         <div className="action-buttons">
+          <button className="retake-btn" onClick={onRetake}>
+            🔄 Retake Test
+          </button>
           <button className="new-test-btn" onClick={onNewTest}>
             🆕 Create New Test
           </button>
@@ -95,6 +100,8 @@ function TestResults({ results, onNewTest, onViewStats }) {
           </button>
         </div>
       </div>
+      </div>
+      <Footer />
     </div>
   );
 }

@@ -1,6 +1,13 @@
-.test-results {
+.test-results-wrapper {
   width: 100%;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.test-results {
+  width: 100%;
+  flex: 1;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   padding: 20px;
   display: flex;
@@ -245,6 +252,7 @@
   flex-wrap: wrap;
 }
 
+.retake-btn,
 .new-test-btn,
 .view-stats-btn {
   padding: 12px 30px;
@@ -255,6 +263,16 @@
   font-size: 1rem;
   transition: all 0.2s ease;
   min-width: 180px;
+}
+
+.retake-btn {
+  background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
+  color: white;
+}
+
+.retake-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(76, 175, 80, 0.3);
 }
 
 .new-test-btn {
@@ -310,6 +328,7 @@
     flex-direction: column;
   }
 
+  .retake-btn,
   .new-test-btn,
   .view-stats-btn {
     width: 100%;

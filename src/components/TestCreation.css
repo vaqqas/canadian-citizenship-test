@@ -1,6 +1,13 @@
-.test-creation {
+.test-creation-wrapper {
   width: 100%;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.test-creation {
+  width: 100%;
+  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,26 +28,65 @@
   margin-bottom: 40px;
   border-bottom: 3px solid #667eea;
   padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
-.header-top {
+.header-row-1 {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
   gap: 20px;
+  align-items: center;
+}
+
+.header-flag {
+  flex: 0 0 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-flag .logo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .header h1 {
   color: #333;
   font-size: 2rem;
-  margin-bottom: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+.header-row-2 {
   text-align: center;
 }
 
 .header p {
   color: #666;
   font-size: 1rem;
+  margin: 0;
   text-align: center;
+}
+
+.header a {
+  color: #667eea;
+  text-decoration: underline;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.header a:hover {
+  color: #764ba2;
 }
 
 .stats-btn {
@@ -301,6 +347,17 @@
 @media (max-width: 600px) {
   .container {
     padding: 20px;
+  }
+
+  .header-row-1 {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .header-flag {
+    flex: 0 0 100%;
+    max-width: 150px;
+    margin: 0 auto;
   }
 
   .header h1 {

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './TestCreation.css';
+import Footer from './Footer';
 
 function TestCreation({ onStartTest, onViewStats }) {
   const [chapters, setChapters] = useState({});
@@ -85,18 +86,24 @@ function TestCreation({ onStartTest, onViewStats }) {
   const allSelected = selectedChapters.length === chapterEntries.length;
 
   return (
-    <div className="test-creation">
-      <div className="container">
+    <div className="test-creation-wrapper">
+      <div className="test-creation">
+        <div className="container">
         <div className="header">
-          <div className="header-top">
-            <div>
-              <h1>🇨🇦 Citizenship Test Creator</h1>
-              <p>Create your custom test by selecting chapters and preferences</p>
+          <div className="header-row-1">
+            <div className="header-flag">
+              <img src="/images/ca-flag.jpg" alt="Canadian Flag" className="logo" />
             </div>
-            <button className="stats-btn" onClick={onViewStats} title="View your performance statistics">
-              📊 Statistics
-            </button>
+            <div className="header-title">
+              <h1>Canadian Citizenship <br/> Mock Test</h1>
+            </div>
           </div>
+          <div className="header-row-2">
+            <p>Questions based on the official study guide <a href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html" target="_blank" rel="noopener noreferrer">Discover Canada</a></p>
+          </div>
+          <button className="stats-btn" onClick={onViewStats} title="View your performance statistics">
+            📊 Your Performance Report
+          </button>
         </div>
 
         <div className="form-section">
@@ -202,7 +209,9 @@ function TestCreation({ onStartTest, onViewStats }) {
             <strong>Order:</strong> {randomize ? 'Random' : 'Sequential'}
           </p>
         </div>
+        </div>
       </div>
+      <Footer />
     </div>
   );
 }
