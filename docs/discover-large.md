@@ -1,22 +1,26 @@
-iwi andImmigration,CitizenshipRefugeesCanada 
+# Study Guide – Discover Canada – The Rights and Responsibilities of Citizenship 
 
-etImmigration,CitoyennetéRéfugiésCanada 
-
-# Canada 
+1
 
 2 
 
 #### **The Oath of Citizenship** 
 
-I swear (or affirm) That I will be faithful And bear true allegiance To Her Majesty Queen Elizabeth the Second Queen of Canada Her Heirs and Successors And that I will faithfully observe The laws of Canada Including the Constitution Which recognizes and affirms The Aboriginal and treaty rights of First Nations, Inuit and Métis peoples And fulfil my duties As a Canadian citizen. 
-
-#### **Le serment de citoyenneté** 
-
-Je jure (ou j’affirme solennellement) Que je serai fidèle Et porterai sincère allégeance À Sa Majesté La reine Elizabeth Deux Reine du Canada À ses héritiers et successeurs 
-
-Que j’observerai fidèlement Les lois du Canada 
-
-Y compris la Constitution Qui reconnaît et confirme les droits Ancestraux ou issus de traités Des Premières Nations, des Inuits et des Métis Et que je remplirai loyalement Mes obligations De citoyen canadien. 
+I swear (or affirm)
+That I will be faithful
+And bear true allegiance
+To Her Majesty
+Queen Elizabeth the Second
+Queen of Canada
+Her Heirs and Successors
+And that I will faithfully observe
+The laws of Canada
+Including the Constitution
+Which recognizes and affirms
+The Aboriginal and treaty rights of
+First Nations, Inuit and Métis peoples
+And fulfil my duties
+As a Canadian citizen.
 
 3 
 
@@ -24,15 +28,11 @@ Y compris la Constitution Qui reconnaît et confirme les droits Ancestraux ou is
 
 In Canada, we profess our loyalty to a person who represents all Canadians and not to a document such as a constitution, a banner such as a flag, or a geopolitical entity such as a country. In our constitutional monarchy, these elements are encompassed by the Sovereign (Queen or King). It is a remarkably simple yet powerful principle: Canada is personified by the Sovereign just as the Sovereign is personified by Canada. 
 
-© Her Majesty the Queen in Right of Canada, represented by the Minister of Citizenship and Immigration Canada, 20 21 
-
-Ci1-11/2021E-PDF-1 
-
-978-0-660-39274-5 
+© Her Majesty the Queen in Right of Canada, represented by the Minister of Citizenship and Immigration Canada
 
 4 
 
-## **<mark>Messa e to Our Readers</mark>** **<u><mark>g</mark></u>** 
+## **Message to Our Readers** 
 
 **Welcome!** It took courage to move to a new country. Your decision to apply for citizenship is another big step. You are becoming part of a great tradition that was built by generations of pioneers before you. Once you have met all the legal requirements, we hope to welcome you as a new citizen with all the rights and responsibilities of citizenship. 
 
@@ -54,45 +54,45 @@ For information about Citizenship and Immigration Canada, visit our website at *
 
 6 
 
-## **<mark>Contents</mark>** 
+## **Contents** 
 
-|Applying for Citizenship.........................................................8|
-|---|
-|Rights and Responsibilities of Citizenship...........................11|
-|Who We Are ........................................................................16|
-|Canada’s History .................................................................23|
-|Modern Canada...................................................................45|
-|How Canadians Govern Themselves..................................54|
-|Federal Elections.................................................................60|
-|The Justice System .............................................................75|
-|Canadian Symbols ..............................................................78|
-|Canada’s Economy .............................................................90|
-|Canada’s Regions ...............................................................93|
-|The Atlantic Provinces.................................................96|
-|Central Canada ...........................................................98|
-|The Prairie Provinces................................................100|
-|The West Coast.........................................................102|
-|The Northern Territories............................................103|
-|Study Questions ................................................................106|
-|For More Information.........................................................111|
-|Authorities .........................................................................122|
-|Memorable Quotes …………………………………………...128|
-
+```
+Applying for Citizenship.............................................8
+Rights and Responsibilities of Citizenship...........................11
+Who We Are ..........................................................16
+Canada’s History ....................................................23
+Modern Canada........................................................45
+How Canadians Govern Themselves......................................54
+Federal Elections....................................................60
+The Justice System ..................................................75
+Canadian Symbols ....................................................78
+Canada’s Economy ....................................................90
+Canada’s Regions ....................................................93
+The Atlantic Provinces...............................................96
+Central Canada ......................................................98
+The Prairie Provinces................................................100
+The West Coast.......................................................102
+The Northern Territories.............................................103
+Study Questions .....................................................106
+For More Information.................................................111
+Authorities .........................................................122
+Memorable Quotes ....................................................128
+```
 
 
 7 
 
-## **<mark>A l in for Citizenshi</mark>** **<u><mark>pp y g p</mark></u>** 
+## **Applyin for Citizenship** 
 
-### **When you apply for citizenship, officials will check your status, verify that you are not prohibited from applying, and ensure that you meet the requirements.** 
+**When you apply for citizenship, officials will check your status, verify that you are not prohibited from applying, and ensure that you meet the requirements.** 
 
 Your application may take several months. Please ensure that the Call Centre always has your correct address while your application is being processed. 
 
-### **See page 111 for telephone numbers.** 
+**See page 111 for telephone numbers.** 
 
 Picture: Citizens take the oath 
 
-### **HOW TO USE THIS BOOKLET TO PREPARE FOR THE CITIZENSHIP TEST** 
+**HOW TO USE THIS BOOKLET TO PREPARE FOR THE CITIZENSHIP TEST** 
 
 This booklet will help you prepare for the citizenship test. You should: 
 
@@ -132,7 +132,7 @@ If you do not pass the test, you will receive a notification indicating the next
 
 10 
 
-## **<mark>Ri hts and Res onsibilities of Citizenshi</mark>** **<u><mark>g p p</mark></u>** 
+## **Rights and Responsibilities of Citizenship** 
 
 Canadian citizens have rights and responsibilities. These come to us from our history, are secured by Canadian law, and reflect our shared traditions, identity, and values. 
 
@@ -178,8 +178,6 @@ In Canada, rights come with responsibilities. These include:
 
 - **Obeying the law** — One of Canada’s founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions. No person or group is above the law. 
 
-- — 
-
 - **Taking responsibility for oneself and one’s family** Getting a job, taking care of one’s family and working hard in keeping with one’s abilities are important Canadian values. Work contributes to personal dignity and selfrespect, and to Canada’s prosperity. 
 
 - **Serving on a jury** — When called to do so, you are legally required to serve. Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens. 
@@ -202,7 +200,7 @@ You may also serve in the Coast Guard or emergency services in your community su
 
 15 
 
-## **<mark>Who We Are</mark>** 
+## **Who We Are** 
 
 Canada is known around the world as a strong and free country. Canadians are proud of their unique identity. We have inherited the oldest continuous constitutional tradition in the world. We are the only constitutional monarchy in North America. Our institutions uphold a commitment to Peace, <u>Order, and Good Government, a key phrase in Canada’s</u> original constitutional document in 1867, the British North <u>America Act. A belief in ordered liberty, enterprise, hard work</u> and fair play have enabled Canadians to build a prosperous society in a rugged environment from our Atlantic shores to the Pacific Ocean and to the Arctic Circle—so much so that poets and songwriters have hailed Canada as the “ **Great Dominion** .” 
 
@@ -238,7 +236,7 @@ The **Inuit** , which means “the people” in the Inuktitut language, live in 
 
 The **Métis** are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif. 
 
-### **About 65% of the Aboriginal people are First Nations, while 30% are Métis and 4% Inuit.** 
+**About 65% of the Aboriginal people are First Nations, while 30% are Métis and 4% Inuit.** 
 
 Picture: (From Left to Right) St. Patrick’s Day Parade, Montreal, Quebec. Highland dancer at Glengarry Highland Games, Maxville, Ontario. Celebrating Fête Nationale, Gatineau, Quebec. Acadian fiddler, Village of Grande-Anse, New Brunswick. 
 
@@ -296,7 +294,7 @@ Picture: Olympian Marjorie Turner-Bailey of Nova Scotia is a descendant of black
 
 22 
 
-## **<mark>Canada’s History</mark>** 
+## **Canada’s History** 
 
 ### **ABORIGINAL PEOPLES** 
 
@@ -594,7 +592,7 @@ Regrettably, the state of war and public opinion in B.C. led to the forcible rel
 
 44 
 
-## **<mark>Modern Canada</mark>** 
+## **Modern Canada** 
 
 ### **TRADE AND ECONOMIC GROWTH** 
 
@@ -698,8 +696,6 @@ Canadians have made various discoveries and inventions. Some of the most famous 
 
 - **Dr. John A. Hopps** — invented the first cardiac pacemaker, used today to save the lives of people with heart disorders. 
 
-- — 
-
 - **SPAR Aerospace / National Research Council** invented the Canadarm, a robotic arm used in outer space. 
 
 - **Mike Lazaridis and Jim Balsillie** — of Research in Motion (RIM)—a wireless communications company known for its most famous invention—the BlackBerry. 
@@ -716,7 +712,7 @@ The prosperity and diversity of our country depend on all Canadians working toge
 
 53 
 
-## **<mark>How Canadians Govern Themselves</mark>** 
+## **How Canadians Govern Themselves** 
 
 There are three key facts about Canada’s system of government: our country is a federal state, a parliamentary democracy and a constitutional monarchy. 
 
@@ -750,8 +746,9 @@ In the federal government, the **Prime Minister** selects the Cabinet ministers 
 
 ### **HOW A BILL BECOMES LAW – THE LEGISLATIVE PROCESS** 
 
-|**STEP 1**|**First Reading**– The bill is considered read for the first<br>time and is printed.|
+|SN|Stage|
 |---|---|
+|**STEP 1**|**First Reading**– The bill is considered read for the first<br>time and is printed.|
 |**STEP 2**|**Second Reading**– Members debate the bill’s principle.|
 |**STEP 3**|**Committee Stage**– Committee members study the bill<br>clause by clause.|
 |**STEP 4**|**Report Stage**– Members can make other amendments.|
@@ -791,7 +788,7 @@ Legislativea Branch
 
 Supreme Court of Canada Nine judges appointed by the Governor General | | Federal Court Provincial of Canada Courts 
 
-## **<mark>Federal Elections</mark>** 
+## **Federal Elections** 
 
 Canadians vote in elections for the people they want to represent them in the House of Commons. In each election, voters may re-elect the same members of the House of Commons or choose new ones. Members of the House of Commons are also known as members of Parliament or MPs. 
 
@@ -903,19 +900,18 @@ Picture: Provincial Assembly Charlottetown, P.E.I.
 
 67 
 
-|**Provincial and**<br>**Territorial**|•Members of the<br>Legislative<br>Assembly (MLA) or|•Education<br>•Health Care|
+|**Government**|**Elected Officials**|**Some Responsibilities**|
 |---|---|---|
+|**Provincial and**<br>**Territorial**|•Members of the<br>Legislative<br>Assembly (MLA) or|•Education<br>•Health Care|
 ||•Members of the<br>National Assembly<br>(MNA) or<br>•Members of the<br>Provincial<br>Parliament (MPP) or|•Natural Resources<br>•Highways<br>•Policing (Quebec,<br>Ontario)|
 ||•Members of the<br>House of Assembly<br>(MHA)|•Property and Civil<br>Rights<br>•Immigration (shared)<br>•Agriculture (shared)<br>•Environment<br>(shared).|
 
 
-
 68 
 
-
-
-<!-- Start of picture text -->
-• •<br>Municipal   Mayor or Reeve   Social and<br>(local)  Community Health<br>•<br> Councillors or<br>•<br>Aldermen   Recycling Programs<br>•<br> Transportation and<br>Utilities<br>•<br> Snow Removal<br>•<br> Policing<br>•<br> Firefighting<br>•<br> Emer enc  Services<br>g y<br><!-- End of picture text -->
+|**Government**|**Elected Officials**|**Some Responsibilities**|
+|---|---|---|
+|Municipal<br>(local)| • Mayor or ReeveCouncillors<br>• Aldermen | • Social and  Community Health<br> • Recycling Programs<br> • Transportation and<br>Utilities<br> • Snow Removal<br> • Policing<br> • Firefighting<br> • Emergency  Services|
 
 The **First Nations** have band chiefs and councillors who have major responsibilities on First Nations reserves, including housing, schools and other services. There are a number of provincial, regional and national Aboriginal organizations that are a voice for First Nations, Métis and Inuit people in their relationships with the federal, provincial and territorial governments. 
 
@@ -986,7 +982,7 @@ The name of the head of the municipal government (mayor or reeve) is
 
 74 
 
-## **<mark>The Justice System</mark>** 
+## **The Justice System** 
 
 The Canadian justice system guarantees everyone due process under the law. Our judicial system is founded on the **presumption of innocence** in criminal matters, **meaning** . **everyone is innocent until proven guilty** 
 
@@ -1022,7 +1018,7 @@ Lawyers can help you with legal problems and act for you in court. If you cannot
 
 77 
 
-## **<mark>Canadian Symbols</mark>** 
+## **Canadian Symbols** 
 
 Canada has many important symbols — objects, events, and people that have special meaning. Together they help explain what it means to be Canadian and express our national identity. Important Canadian symbols appear throughout this booklet. 
 
@@ -1102,11 +1098,15 @@ O Canada was proclaimed as the national anthem in 1980. It was first sung in Qu�
 
 ### **O Canada** 
 
-O Canada! Our home and native land! True patriot love in all thy sons command With glowing hearts we see thee rise The true North strong and free! From far and wide, O Canada 
-
-We stand on guard for thee 
-
-God keep our land glorious and free! O Canada, we stand on guard for thee O Canada, we stand on guard for thee 
+O Canada!
+Our home and native land!
+True patriot love in all of us command.
+With glowing hearts we see thee rise,
+The True North strong and free!
+From far and wide,
+O Canada, we stand on guard for thee.
+God keep our land glorious and free!
+O Canada, we stand on guard for thee. 
 
 ### **Ô Canada** 
 
@@ -1190,7 +1190,7 @@ Picture: (From Top to Bottom) Air Marshal William A. Bishop, better known as fly
 
 89 
 
-## **<mark>Canada’s Economy</mark>** 
+## **Canada’s Economy** 
 
 ### **A TRADING NATION** 
 
@@ -1228,7 +1228,7 @@ Picture: The Peace Arch at Blaine, Washington
 
 92 
 
-## **<mark>Canada’s Regions</mark>** 
+## **Canada’s Regions** 
 
 Canada is the second largest country on earth—10 million square kilometres. Three oceans line Canada’s frontiers: the Pacific Ocean in the west, the Atlantic Ocean in the east, and the Arctic Ocean to the north. Along the southern edge of Canada lies the Canada-United States boundary. Both Canada and the U.S.A. are committed to a safe, secure and efficient frontier. 
 
@@ -1266,17 +1266,30 @@ Picture: (Right) Peggy’s Cove harbour, Nova Scotia
 
 94 
 
-|**REGION**|**PROVINCE/TERRITORY**<br>**CAPITAL CITY**|
-|---|---|
-|**Atlantic**<br>**Provinces**|Newfoundland and Labrador...................<br>Prince Edward Island ..............................<br>Nova Scotia.............................................<br>New Brunswick .......................................<br>St. John’s<br>Charlottetown<br>Halifax<br>Fredericton|
-|**Central**<br>**Canada**|Quebec ...................................................<br>Ontario ....................................................<br>Québec City<br>Toronto|
-|**Prairie**<br>**Provinces**|Manitoba .................................................<br>Saskatchewan.........................................<br>Alberta.....................................................<br>Winnipeg<br>Regina<br>Edmonton|
-|**West Coast**|British Columbia...................................... Victoria|
-|**North**|Nunavut...................................................<br>Northwest Territories...............................<br>Yukon Territory .......................................<br>Iqaluit<br>Yellowknife<br>Whitehorse|
+**Atlantic Provinces**
+Newfoundland and Labrador..........St. John’s
+Prince Edward Island............Charlottetown
+Nova Scotia...........................Halifax
+New Brunswick.....................Fredericton
 
+**Central Canada**
+Quebec............................Québec City
+Ontario...............................Toronto
 
+**Prairie Provinces**
+Manitoba ............................Winnipeg
+Saskatchewan...........................Regina
+Alberta..............................Edmonton
 
-### **Ottawa** : The Capital of Canada 
+**West Coast**
+British Columbia.....................Victoria
+
+**North**
+Nunavut..............................Iqaluit
+Northwest Territories............Yellowknife
+Yukon Territory ..................Whitehorse
+
+**Ottawa** : The Capital of Canada 
 
 95 
 
@@ -1380,7 +1393,7 @@ Picture: (From Left to Right) An Inuit boy in Sanikiluaq, Nunavut, uses a pellet
 
 105 
 
-## **<mark>Study Questions</mark>** 
+## **Study Questions** 
 
 One of the basic requirements of citizenship is to demonstrate that you have adequate knowledge of Canada. The citizenship test is used to assess your knowledge of Canada and the rights and responsibilities of being a citizen in Canada. 
 
@@ -1391,11 +1404,8 @@ All the citizenship test questions are based on information provided in this stu
 **What are three responsibilities of citizenship?** 
 
 - a) Being loyal to Canada, recycling newspapers, serving in the navy, army or air force. 
-
-### **b) Obeying the law, taking responsibility for oneself and one’s family, serving on a jury.** 
-
+- b) Obeying the law, taking responsibility for oneself and one’s family, serving on a jury.
 - c) Learning both official languages, voting in elections, belonging to a union. 
-
 - d) Buying Canadian products, owning your own business, using less water. 
 
 106 
@@ -1403,9 +1413,7 @@ All the citizenship test questions are based on information provided in this stu
 ### **What is the meaning of the Remembrance Day poppy?** 
 
 - a) To remember our Sovereign, Queen Elizabeth II. 
-
 - b) To celebrate Confederation. 
-
 - c) To honour prime ministers who have died. 
 
 ### **d) To remember the sacrifice of Canadians who have served or died in wars up to the present day.** 
@@ -1413,11 +1421,8 @@ All the citizenship test questions are based on information provided in this stu
 ### **How are members of Parliament chosen?** 
 
 - a) They are appointed by the United Nations. 
-
 - b) They are chosen by the provincial premiers. 
-
-- **c) They are elected by voters in their local constituency (riding).** 
-
+- c) They are elected by voters in their local constituency (riding).
 - d) They are elected by landowners and police chiefs. 
 
 107 
@@ -1486,7 +1491,7 @@ What is the capital of the province or territory that you live in?
 
 110 
 
-## **<mark>For More Information</mark>** 
+## **For More Information** 
 
 ### **CANADIAN CITIZENSHIP** 
 
@@ -1786,7 +1791,7 @@ Dr. Janet Ajzenstat Mr. Curtis Barlow Dr. Randy Boyagoda Mr. Marc Chalifoux Gene
 
 121 
 
-## **<mark>Authorities</mark>** 
+## **Authorities** 
 
 ### **Section 5 of the Citizenship Act** 
 
@@ -1824,7 +1829,7 @@ Dr. Janet Ajzenstat Mr. Curtis Barlow Dr. Randy Boyagoda Mr. Marc Chalifoux Gene
 
 123 
 
-## **<mark>Notes</mark>** 
+## **Notes** 
 
 __________________________________________________ 
 
@@ -1852,7 +1857,7 @@ __________________________________________________
 
 124 
 
-## **<mark>Notes</mark>** 
+## **Notes** 
 
 __________________________________________________ 
 
@@ -1880,7 +1885,7 @@ __________________________________________________
 
 125 
 
-## **<mark>Notes</mark>** 
+## **Notes** 
 
 __________________________________________________ 
 
@@ -1908,7 +1913,7 @@ __________________________________________________
 
 126 
 
-## **<mark>Notes</mark>** 
+## **Notes** 
 
 __________________________________________________ 
 
@@ -1936,7 +1941,7 @@ __________________________________________________
 
 127 
 
-## **<mark>Memorable Quotes</mark>** 
+## **Memorable Quotes** 
 
 ### “For here [in Canada], 
 
